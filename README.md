@@ -2,7 +2,7 @@
 Imagina que pots programar el teu propi joc de Ping Pong com els clàssics dels anys 80. En aquesta activitat treballaràs amb un company per crear una versió bàsica del joc utilitzant C++ i la llibreria SFML.  L’objectiu és aplicar la programació estructurada i el disseny descendent per construir un joc complet, senzill i funcional.
 
 ## Funcionament
-El joc realitzat es tres en ratlla, cada jugador constar de una figura jugador 1 [X] i jugador 2 [O], cada jugador coloca una forma en un mateix cuadre de 3x3 cada torn alternanse entre ells, sense poder repetir ubicacions, un cop un jugador te 3 figures identiques en raya el jugador guanya la ronda, en cas de que no quedin mes posicions posibles sera un empat.
+El joc realitzat es Ping Pong, en aquest joc dos jugadors competeixen amb una bola per marcar en el camp del altre jugador, al arrivar a 5 punts (un per cada gol) el jugador guanya.
 | Victoria 1 | Victoria 2 |
 |----------|-------|
 | ![jugador1](./images/jugador1.png)         |  ![jugador2](./images/jugador2.png)  |
