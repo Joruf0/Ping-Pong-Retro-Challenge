@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
-#include "alumne1.h"
-#include "alumne2.h"
+#include "bernat.h"
+#include "jordi.h"
 
 using namespace sf;
 

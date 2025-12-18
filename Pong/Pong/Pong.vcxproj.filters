@@ -18,10 +18,10 @@
     <ClCompile Include="Pong.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="alumne1.cpp">
+    <ClCompile Include="bernat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="alumne2.cpp">
+    <ClCompile Include="jordi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -29,10 +29,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="alumne1.h">
+    <ClInclude Include="bernat.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="alumne2.h">
+    <ClInclude Include="jordi.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
